@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="1" hostname="Helens-iMac.local" id="0" name="AllTests" package="TestCases" skipped="0" tests="21" time="124.915" timestamp="2015-04-27T01:02:06">
+      <properties>
+          <property name="java.vendor" value="Apple Inc." />
+
+          <property name="env.JAVA_STARTED_ON_FIRST_THREAD_1359" value="1" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="env.XPC_SERVICE_NAME" value="0" />
+
+          <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+
+          <property name="os.name" value="Mac OS X" />
+
+          <property name="sun.boot.class.path" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsfd.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaRuntimeSupport.framework/Resources/Java/JavaRuntimeSupport.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/ui.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/laf.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/sunrsasign.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsse.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jce.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/charsets.jar" />
+
+          <property name="env.TMPDIR" value="/var/folders/y7/41ng5kqn3yq4c4nm13p8nk6w0000gn/T/" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="ant.home" value="/Applications/eclipse/plugins/org.apache.ant_1.9.2.v201404171502" />
+
+          <property name="java.runtime.version" value="1.6.0_65-b14-466.1-11M4716" />
+
+          <property name="env.Apple_PubSub_Socket_Render" value="/private/tmp/com.apple.launchd.Uk4OfyoQpX/Render" />
+
+          <property name="user.name" value="hnicholls" />
+
+          <property name="env.USER" value="hnicholls" />
+
+          <property name="env.SHELL" value="/bin/bash" />
+
+          <property name="env.__CF_USER_TEXT_ENCODING" value="0x1F5:0x0:0x0" />
+
+          <property name="awt.nativeDoubleBuffering" value="true" />
+
+          <property name="env.PATH" value="/usr/bin:/bin:/usr/sbin:/sbin" />
+
+          <property name="user.language" value="en" />
+
+          <property name="sun.boot.library.path" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Libraries" />
+
+          <property name="ant.project.default-target" value="build" />
+
+          <property name="env.XPC_FLAGS" value="0x0" />
+
+          <property name="ant.project.name" value="Covermore3" />
+
+          <property name="java.version" value="1.6.0_65" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="64" />
+
+          <property name="env.APP_ICON_1359" value="../Resources/Eclipse.icns" />
+
+          <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|127.0.0.1" />
+
+          <property name="java.endorsed.dirs" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/endorsed" />
+
+          <property name="sun.cpu.isalist" value="" />
+
+          <property name="sun.jnu.encoding" value="MacRoman" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="/" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="user.country" value="US" />
+
+          <property name="java.home" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home" />
+
+          <property name="env.JAVA_MAIN_CLASS_6680" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="env.LOGNAME" value="hnicholls" />
+
+          <property name="ant.file" value="/Users/hnicholls/Documents/workspace/Covermore3/build.xml" />
+
+          <property name="os.version" value="10.10.3" />
+
+          <property name="path.separator" value=":" />
+
+          <property name="java.vm.version" value="20.65-b04-466.1" />
+
+          <property name="ant.library.dir" value="/Applications/eclipse/plugins/org.apache.ant_1.9.2.v201404171502/lib" />
+
+          <property name="junit.output.dir" value="junit" />
+
+          <property name="java.awt.printerjob" value="apple.awt.CPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="apple.awt.CToolkit" />
+
+          <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|127.0.0.1" />
+
+          <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|127.0.0.1" />
+
+          <property name="user.home" value="/Users/hnicholls" />
+
+          <property name="target" value="1.6" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="env.JAVA_STARTED_ON_FIRST_THREAD_6680" value="1" />
+
+          <property name="java.library.path" value=".:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java" />
+
+          <property name="java.vendor.url" value="http://www.apple.com/" />
+
+          <property name="java.vm.vendor" value="Apple Inc." />
+
+          <property name="gopherProxySet" value="false" />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner TestCases.AllTests filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/hnicholls/Documents/workspace/Covermore3/junit/TEST-TestCases.AllTests.xml crashfile=/Users/hnicholls/Documents/workspace/Covermore3/junitvmwatcher2938834827719331845.properties propsfile=/Users/hnicholls/Documents/workspace/Covermore3/junit8608784671027849173.properties" />
+
+          <property name="java.class.path" value="/Users/hnicholls/Documents/workspace/Covermore3/bin:/Applications/eclipse/Selenium/selenium-2.45.0/selenium-java-2.45.0-srcs.jar:/Applications/eclipse/Selenium/selenium-2.45.0/selenium-java-2.45.0.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/apache-mime4j-0.6.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/bsh-1.3.0.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/cglib-nodep-2.1_3.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/commons-codec-1.9.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/commons-collections-3.2.1.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/commons-exec-1.1.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/commons-io-2.4.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/commons-jxpath-1.3.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/commons-lang3-3.3.2.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/commons-logging-1.1.3.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/cssparser-0.9.14.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/gson-2.3.1.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/guava-18.0.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/hamcrest-core-1.3.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/hamcrest-library-1.3.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/htmlunit-2.15.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/htmlunit-core-js-2.15.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/httpclient-4.3.6.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/httpcore-4.3.3.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/httpmime-4.3.6.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/ini4j-0.5.2.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/jcommander-1.29.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/jetty-websocket-8.1.8.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/jna-3.4.0.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/jna-platform-3.4.0.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/junit-dep-4.11.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/nekohtml-1.9.21.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/netty-3.5.7.Final.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/operadriver-1.5.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/phantomjsdriver-1.2.1.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/protobuf-java-2.4.1.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/sac-1.3.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/serializer-2.7.1.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/testng-6.8.5.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/xalan-2.7.1.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/xercesImpl-2.11.0.jar:/Applications/eclipse/Selenium/selenium-2.45.0/libs/xml-apis-1.4.01.jar:/Applications/eclipse/plugins/org.junit_4.11.0.v201303080030/junit.jar:/Applications/eclipse/plugins/org.apache.ant_1.9.2.v201404171502/lib/ant-launcher.jar:/Applications/eclipse/plugins/org.apache.ant_1.9.2.v201404171502/lib/ant.jar:/Applications/eclipse/plugins/org.apache.ant_1.9.2.v201404171502/lib/ant-junit.jar:/Applications/eclipse/plugins/org.apache.ant_1.9.2.v201404171502/lib/ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.9.2 compiled on July 8 2013" />
+
+          <property name="env.com.apple.java.jvmMode" value="client" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="unknown" />
+
+          <property name="debuglevel" value="source,lines,vars" />
+
+          <property name="env.HOME" value="/Users/hnicholls" />
+
+          <property name="env.ANT_HOME" value="/Applications/eclipse/plugins/org.apache.ant_1.9.2.v201404171502" />
+
+          <property name="java.io.tmpdir" value="/var/folders/y7/41ng5kqn3yq4c4nm13p8nk6w0000gn/T/" />
+
+          <property name="java.vendor.url.bug" value="http://bugreport.apple.com/" />
+
+          <property name="env.SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.qPstkW6Puk/Listeners" />
+
+          <property name="mrj.build" value="11M4716" />
+
+          <property name="os.arch" value="x86_64" />
+
+          <property name="java.awt.graphicsenv" value="apple.awt.CGraphicsEnvironment" />
+
+          <property name="java.ext.dirs" value="/Library/Java/Extensions:/System/Library/Java/Extensions:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext" />
+
+          <property name="user.dir" value="/Users/hnicholls/Documents/workspace/Covermore3" />
+
+          <property name="env.com.apple.java.jvmTask" value="JNI.java" />
+
+          <property name="mrj.version" value="1070.1.6.0_65-466.1" />
+
+          <property name="ant.file.Covermore3" value="/Users/hnicholls/Documents/workspace/Covermore3/build.xml" />
+
+          <property name="line.separator" value="&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+
+          <property name="basedir" value="/Users/hnicholls/Documents/workspace/Covermore3" />
+
+          <property name="ant.file.type.Covermore3" value="file" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="/Applications/eclipse/plugins/org.apache.ant_1.9.2.v201404171502/lib/ant.jar" />
+
+          <property name="source" value="1.6" />
+
+          <property name="file.encoding" value="MacRoman" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="ant.project.invoked-targets" value="build,AllTests (2),junitreport" />
+
+      </properties>
+
+      <testcase classname="TestCases.QuoteBox_DropdownTests" name="test_CountryMostTimeSpentIn_AreaOfTravel_Europe" time="1.92" />
+
+      <testcase classname="TestCases.QuoteBox_DropdownTests" name="test_AreaOfTravelDropdown_HasExpectedValues_PolicyLeisure" time="0.338" />
+
+      <testcase classname="TestCases.QuoteBox_DropdownTests" name="test_TypeOfPolicyDropdown_HasExpectedDropdownValues" time="0.083" />
+
+      <testcase classname="TestCases.QuoteBox_DropdownTests" name="test_CountryMostTimeSpentIn_AreaOfTravel_Indonesia" time="1.801" />
+
+      <testcase classname="TestCases.QuoteBox_DropdownTests" name="test_AreaOfTravelDropdown_HasExpectedValues_PolicyBusiness" time="0.497" />
+
+      <testcase classname="TestCases.QuoteBox_DropdownTests" name="test_AreaOfTravelDropdown_HasExpectedValues_PolicyDirect" time="0.588" />
+
+      <testcase classname="TestCases.QuoteBox_DropdownTests" name="test_CountryMostTimeSpentIn_AreaOfTravel_AustraliaInbound" time="1.953" />
+
+      <testcase classname="TestCases.QuoteBox_DropdownTests" name="test_CountryMostTimeSpentIn_AreaOfTravel_Australia" time="1.78" />
+
+      <testcase classname="TestCases.QuoteBox_DropdownTests" name="test_CountryMostTimeSpentIn_AreaOfTravel_Worldwide" time="1.995" />
+
+      <testcase classname="TestCases.QuoteBox_DropdownTests" name="test_AreaOfTravelDropdown_HasExpectedValues_PolicyGroup" time="0.538" />
+
+      <testcase classname="TestCases.QuoteBox_DropdownTests" name="test_AreaOfTravelDropdown_HasExpectedValues_PolicyAgeApproved" time="0.576">
+          <failure message="expected [Area&#xa;Worldwide (inc. Americas and Africa)&#xa;Europe, Asia and the Middle East&#xa;UK and South East Asia&#xa;Indonesia, NZ and South West Pacific] but found [Area&#xa;Worldwide (inc. Americas and Africa)&#xa;Europe, Asia and the Middle East&#xa;UK and South East Asia&#xa;Indonesia, NZ and South West Pacific&#xa;Australia]" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected [Area
+Worldwide (inc. Americas and Africa)
+Europe, Asia and the Middle East
+UK and South East Asia
+Indonesia, NZ and South West Pacific] but found [Area
+Worldwide (inc. Americas and Africa)
+Europe, Asia and the Middle East
+UK and South East Asia
+Indonesia, NZ and South West Pacific
+Australia]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:176)
+	at org.testng.Assert.assertEquals(Assert.java:186)
+	at TestCases.QuoteBox_DropdownTests.test_AreaOfTravelDropdown_HasExpectedValues_PolicyAgeApproved(QuoteBox_DropdownTests.java:98)
+</failure>
+
+      </testcase>
+
+      <testcase classname="TestCases.QuoteBox_DropdownTests" name="test_CountryMostTimeSpentIn_AreaOfTravel_UK" time="1.948" />
+
+      <testcase classname="TestCases.Test_TypeOfPolicy_Business" name="test_TOPBusiness_StartDate_ByDOB" time="23.275" />
+
+      <testcase classname="TestCases.Test_TypeOfPolicy_Business" name="sadsd" time="7.469" />
+
+      <testcase classname="TestCases.Test_TypeOfPolicy_Leisure" name="test_SideBar" time="7.472" />
+
+      <testcase classname="TestCases.Test_TypeOfPolicy_Leisure" name="test_AddressDetailsLink" time="5.358" />
+
+      <testcase classname="TestCases.Test_TypeOfPolicy_Leisure" name="test_TOPLeisure_ReturnDate_ByAge" time="22.697" />
+
+      <testcase classname="TestCases.Test_TypeOfPolicy_Leisure" name="test_TOPLeisure_AMTO_ByDOB" time="12.105" />
+
+      <testcase classname="TestCases.Test_QuoteBox_Negative" name="test_TOPLeisure_FieldValidation_AgeOrDOB" time="8.245" />
+
+      <testcase classname="TestCases.Test_QuoteBox_Negative" name="test_TOPLeisure_FieldValidation_AreaOfTravel" time="7.968" />
+
+      <testcase classname="TestCases.Test_QuoteBox_Negative" name="test_TOPLeisure_FieldValidation_CountryMostTimeSpent" time="8.587" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+</testsuites>
